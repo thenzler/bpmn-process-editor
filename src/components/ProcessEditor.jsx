@@ -1,1 +1,9 @@
-import React, { useState, useRef } from 'react';\nimport { \n  Square, Circle, Diamond, Plus, \n  ZoomIn, ZoomOut, Save, X\n} from 'lucide-react';\n\n// Rest of the component code...
+import React, { useState, useRef } from 'react';
+import { 
+  Square, Circle, Diamond, Plus, 
+  ZoomIn, ZoomOut, Save, X
+} from 'lucide-react';
+
+// Full component code here...
+
+export default ProcessEditor;
