@@ -1,4 +1,3 @@
-// Content of the ProcessEditor.js file
 import React, { useState, useRef } from 'react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -10,5 +9,4 @@ const SHAPES = {
   DIAMOND: { width: 100, height: 100, text: 'Decision' }
 };
 
-// Rest of the component code...
-[Rest of the code from the previous artifact]
+[Previous artifact code content]
